@@ -1,0 +1,191 @@
+               
+               /*COMIENZO DE SECCIONES*/
+body{ 
+    background-color: rgb(10, 10, 10);
+    color: rgb(177, 203, 209);
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:large;
+
+    text-shadow: 4px 2px 2px rgb(12, 16, 31);
+    text-align:justify;
+
+}
+
+header{
+    background: linear-gradient(rgba(7, 5, 2, 0.75),
+    rgba(11, 0, 49, 0.75)),
+    url(imagenes/img_header.jpg);
+    background-repeat: repeat;
+    background-size:cover;
+    background-position:center;
+
+    padding: 50px;
+
+    text-align: center;
+
+    margin-bottom: 20px;
+}
+
+nav{ 
+    background-color: rgb(56, 51, 65);
+    color: rgb(219, 219, 219);
+    
+
+    font-size:medium;
+    font-weight: 500;
+
+    text-indent: 5px;
+    
+    letter-spacing: 1px;
+
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-right: 40px;
+
+    padding: 2px;
+
+}         
+
+section{
+    background-color: rgb(20, 23, 27);
+    
+    margin-right: 100px;
+    padding-bottom: 1px ;
+    padding-right: 5px;
+}
+
+footer{
+    background-color: rgb(38, 28, 43);
+
+    margin-top: 50px;
+    padding: 15px;
+    text-align: center;
+    line-height: 150%;
+   
+}
+
+               /*ID*/
+               
+#Titulo{
+    font-style:initial;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    color:rgb(137, 226, 226);
+
+    text-shadow: 9px 6px 4px rgb(5, 0, 12);
+
+
+
+    
+}
+               /*COMIENZO DE TITULOS*/
+h2{
+    background-color: rgb(47, 69, 70);
+    color: rgb(139, 243, 247);
+
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    
+    text-shadow:2px 2px 2px rgb(0, 141, 146);
+
+    padding: 2px;
+    margin-top: 40px;
+
+}
+
+h3{
+    background-color: rgb(19, 78, 78);
+    color: rgb(92, 226, 226);
+
+    text-shadow: 3px 3px 6px rgb(0, 43, 37);
+
+    padding: 1px;
+}
+
+              /*CLASSES*/
+
+.pipipi{
+    color: rgb(234, 217, 240);
+    background-color: rgb(60, 51, 66);
+
+    margin-right: 10%;
+
+}
+
+.ñiñiñi{
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    text-align: center;
+    
+}
+
+.ñiñi{
+    margin: 1%;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+.tuttifruti{
+    background-color: rgb(37, 36, 53);
+
+}
+
+
+.PositionImg{
+    position: relative;
+    left: 650px;
+    bottom: 180px;
+
+
+}
+
+.Position{
+    position: relative;
+    bottom: 20%;
+    top: 30%;
+    left: 1%;
+
+    width: 600px;
+    height: 30px;
+
+    padding-bottom: 150px;
+    padding-right: 10px;
+
+}
+
+               /*RESALTOS*/
+ 
+strong{
+    color: rgb(153, 44, 216);
+
+    text-decoration: underline;
+}
+
+              /*LISTA*/
+li{
+    background-color: rgb(28, 34, 41);
+
+}
+
+              /*ETIQUETAS D TEXTO*/
+
+P{
+    background-color: rgb(28, 34, 41); ;
+
+}
+
+                  /*LINKS*/
+a{
+    color: rgb(0, 255, 255);
+}
+
+
+
